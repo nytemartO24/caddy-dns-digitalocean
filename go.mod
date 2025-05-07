@@ -4,5 +4,5 @@ go 1.14
 
 require (
 	github.com/caddyserver/caddy/v2 v2.3.0
-	github.com/nytemartO24/libdns-digitalocean v1.9.1
+	github.com/nytemartO24/libdns-digitalocean v1.9.2
 )
